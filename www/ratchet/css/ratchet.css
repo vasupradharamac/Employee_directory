@@ -265,7 +265,7 @@ a:active {
   left: 0;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
-  background-color: #fff;
+  background-color: rgb(32, 32, 32);
 }
 
 .content > * {
@@ -492,7 +492,7 @@ input[type="button"] {
   height: 44px;
   padding-right: 10px;
   padding-left: 10px;
-  background-color: white;
+  background-color: rgb(32, 32, 32);
   border-bottom: 1px solid #ddd;
 
   -webkit-backface-visibility: hidden;
@@ -535,7 +535,8 @@ input[type="button"] {
   font-size: 17px;
   font-weight: 500;
   line-height: 44px;
-  color: #000;
+  color: #fff;
+  background-color: rgb(32, 32, 32);
   text-align: center;
   white-space: nowrap;
 }
@@ -851,7 +852,7 @@ input[type="color"] {
   padding: 0 15px;
   margin-bottom: 15px;
   line-height: 21px;
-  background-color: #fff;
+  background-color:#D3D3D3;
   border: 1px solid #ddd;
   border-radius: 3px;
   outline: none;

@@ -14,7 +14,7 @@
     -webkit-transform: translate3d(0, 0, 1px);
     transform: translate3d(0, 0, 0);
     text-align: left;
-    background: #ffffff;
+    background: rgb(32, 32, 32);
 }
 
 .page.left {
